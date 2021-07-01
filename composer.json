@@ -1,0 +1,15 @@
+{
+    "name": "kaw/cloud",
+    "autoload": {
+        "psr-4": {
+            "Kaw\\Cloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nawathpolkaw",
+            "email": "nawathpolkaw@gmail.com"
+        }
+    ],
+    "require": {}
+}
